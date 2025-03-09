@@ -25,9 +25,12 @@ const Header = () => {
           transform: "translateX(-50%)",
           margin: 0,
           color:"green",
+          lineHeight:"1"
           
         }}
       >LiveGrid: A hub for insights & analytics</h2>
+
+
 
     <Space align='center' size="middle" style={{ flex: 1, justifyContent: "flex-end" }}>
         <CurrenUser/>
